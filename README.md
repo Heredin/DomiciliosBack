@@ -14,7 +14,7 @@ Ahora puede instalar todo lo que necesita para ejecutar WSL con un solo comando.
 Este comando habilitará las funciones necesarias para ejecutar WSL e instalar la distribución Ubuntu de Linux. ( Esta distribución predeterminada se puede cambiar ).
 
 Clone el repositorio del github
-https://github.com/Heredin/tasks-app
+https://github.com/Heredin/DomiciliosBack
 
 Configurar un alias de shell
 De forma predeterminada, los comandos de Sail se invocan utilizando el vendor/bin/sailscript que se incluye con todas las nuevas aplicaciones de Laravel:
