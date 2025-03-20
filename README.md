@@ -82,20 +82,20 @@ http://localhost/api/auth/login
 
 Retorna token de seguridad en cada proceso
 
-Obtener Tareas de cada usuario
-http://localhost/api/tasks/user/3
+Obtener Domicilios de cada usuario
+http://localhost/api/domicilios/user/3
 
-Guardar Tarea (title, description y status)
-http://localhost/api/tasks
+Guardar Domicilio
+http://localhost/api/domicilios
 
-Actualizar Tarea de cada usuario autenticado (title, description y status)
-http://localhost/api/tasks/2
+Actualizar Domicilios de cada usuario autenticado
+http://localhost/api/domicilios/2
 
-Eliminar Tarea de cada usuario autenticado
-http://localhost/api/tasks/1
+Eliminar Domicilio de cada usuario autenticado
+http://localhost/api/domicilios/1
 
-Mostrar detalle de Tarea de cada usuario autenticado
-http://localhost/api/tasks/2
+Mostrar detalle del Domicilio de cada usuario autenticado
+http://localhost/api/domicilios/2
 
 Cerrar Sesión de usuario
 http://localhost/api/auth/logout
