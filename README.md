@@ -62,7 +62,7 @@ Los comandos de Laravel Artisan se pueden ejecutar usando el artisan comando:
 
 ejemplo: sail artisan queue:work
 
-Para correr las migraciones del proyecto y poder interactuar con la base de datos(SQlite)
+Para correr las migraciones del proyecto y poder interactuar con la base de datos(MySQL)
 corremos el siguiente comando
 
 ./vendor/bin/sail artisan migrate o si usamos el alias
